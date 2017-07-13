@@ -1,0 +1,10 @@
+.not-found {
+	display: flex;
+	flex-direction: column;
+	align-items: center; }
+	.not-found h1 {
+		font-size: 30px;
+		margin-top: 40px; }
+	.not-found i {
+		margin-top: 40px;
+		font-size: 120px; }

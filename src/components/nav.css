@@ -1,0 +1,26 @@
+.nav {
+	display:flex; 
+	border-bottom: 1px solid #e0e0e0; }
+	.nav ul {
+		margin: 0 auto;
+		display: flex;
+		padding: 20px; }
+		.nav ul li {
+			list-style: none;
+			margin-right: 10px; }
+			.nav ul li:last-child {
+				margin-right: 0; }
+			.nav ul li a {
+				transition: .2s all;
+				display: block;
+				padding: 10px 30px;
+				font-size: 24px; }
+				.nav ul li a:hover {
+					background-color: #e0e0e0;
+					color: #333; }
+				.nav ul li a:active {
+					text-decoration: none;
+					color: #333; }
+				.nav ul li a.active {
+					color: #fff;
+					background-color: #212121; }

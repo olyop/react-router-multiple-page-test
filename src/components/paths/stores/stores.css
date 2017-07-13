@@ -1,0 +1,28 @@
+.stores .stores-nav {
+	margin-bottom: 20px;
+	background-color: #212121; }
+	.stores .stores-nav p {
+		padding: 10px;
+		font-size: 18px;
+		color: #fff;
+		text-align: center; }
+	.stores .stores-nav ul {
+		margin: 0;
+		padding: 0;
+		border-top: 2px solid #000;
+		border-bottom: 2px solid #000;
+		display: flex;
+		justify-content: space-around; }
+		.stores .stores-nav ul li {
+			padding: 0;
+			width: 100%;
+			list-style: none; }
+			.stores .stores-nav ul li a {
+				color: #fff;
+				text-align: center;
+				transition: .2s all;
+				display: block;
+				padding: 10px;
+				font-size: 15px; }
+				.stores .stores-nav ul li a.active {
+					background-color: #000; }

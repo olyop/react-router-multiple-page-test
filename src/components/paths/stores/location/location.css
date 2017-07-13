@@ -1,0 +1,13 @@
+.stores .stores-nav .store-info .location {
+	padding: 20px; }
+	.stores .stores-nav .store-info .location h2 {
+		padding: 0;
+		color: #fff; }
+	.stores .stores-nav .store-info .location p {
+		text-align: left;
+		padding: 0;
+		margin-bottom: 20px;
+		color: #fff;
+		font-size: 15px; }
+	.stores .stores-nav .store-info .location iframe {
+		background-color: rgb(229, 227, 223); }
